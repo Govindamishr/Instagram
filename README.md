@@ -1,6 +1,6 @@
 # Instagram
 
-:house: **Instagram**
+🏠 **Instagram**
 
 ### Framework
 ---------
@@ -47,13 +47,13 @@
 ### Run tests
 ------
 ⭕ Postman 
-:globe_with_meridians: Chrome browser
+🌐 Chrome browser
 
 ### Data structure and programming language
 -----
 - Core Java
 
-:point_down: **Summary**
+👇 **Summary**
 *****
 User:
 - Represents a user of the application.
@@ -95,5 +95,6 @@ Admin:
 - Contains properties such as adminId, firstName, lastName, and email.
 - Uses annotations for validation and database mapping.
 
-:star: **Thank you for your support!**
+⭐ **Thank you for your support!**
 
+Please let me know if there's anything else I can help you with!
